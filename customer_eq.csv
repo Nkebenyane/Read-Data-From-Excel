@@ -1,0 +1,80 @@
+Site  Number,Tower  Asset  Number,Project  Number,Project  Name,Customer  Equipment  Number,Portfolio  Country,Status,Customer  Equipment  Type,Customer  Equipment  Status,Customer  Name,Contracted  Start  Date,Installation  Date,Include  in  Cancellation  Project?,Add  Antenna?,Add  Antenna  Manual,Antenna  Count,Antenna  Type,Antenna  Manufacturer,Antenna  Model  Number,Antenna  Count  Manual,Antenna  Type  Manual,Azimuth,Transmit  Frequency,Tower  Height  of  Antenna  (Requested),Tower  Height  of  Antenna  (Requested)  UOM,Tower  Height  of  Antenna  (Recommended),Tower  Height  of  Antenna  (Recommended)  UOM,Tower  Height  of  Antenna  (Accepted),Tower  Height  of  Antenna  (Accepted)  UOM,Technology,Load  Contracted,Antenna  Equipment  Comments,Comments,Receive  Frequency,Anchor  Equipment,Antenna  Height,Antenna  Width,Antenna  Depth,Add  Transmission  Line,Transmission  Line  Count,Transmission  Line  Type,Transmission  Line  Size,Add  Mount,Mount  Count,Mount  Size,Mount  Type,Equipment  Height  on  Tower,Equipment  Height  on  Tower  UOM,Add  Power  Equipment,Power  Equipment,Ground  Equipment  Count,Ground  Equipment  Type,Ground  Equipment  Manufacturer,Ground  Equipment  Model,Ground  Area  (Requested),Ground  Area  (Requested)  UOM,Ground  Area  (Leased),Ground  Area  (Leased)  UOM,Ground  Equipment  Location,Ground  Area  (Utilized),CAF,CAFR,Antenna  Attachment  Point,Tenant  Site  ID,Cancellation  Project  Number,Cancellation  Project  Name
+350007,  ,  ,  ,  ,  ,  ,,,,  ,  ,  ,  ,  ,  ,,,Log  Square
+350007,  ,  ,  ,  ,  ,  ,Stand-Off,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,GC_Log_Square
+350007,  ,  ,  ,  ,  ,  ,Stand-Off,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,GC_Log_Square
+350007,  ,  ,  ,  ,  ,  ,Behind  Antenna,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Log  Square
+350008,  ,  ,  ,  ,  ,  ,Stand-Off,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,GC_BORDER_Str
+350008,  ,  ,  ,  ,  ,  ,Stand-Off,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,GC_BORDER_Str
+350009,  ,  ,George  Goch  Station,  ,  ,  ,  ,  ,George  Goch  Station,MTN  (Pty)  Ltd
+350009,  ,  ,George  Goch  Station,  ,  ,  ,  ,  ,George  Goch  Station,MTN  S.A.
+350009,  ,  ,  ,  ,  ,  ,,,,  ,  ,  ,  ,  ,  ,,,George  Goch  Station
+350009,  ,  ,  ,  ,  ,  ,N/A,,FTTS,  ,  ,  ,  ,  ,  ,,,George  Goch  Station  -  ATC
+350009,  ,  ,  ,  ,  ,  ,Stand-Off,,Kathrein/Commscope,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Remaining,George  Goch  Station  -  ATC  I
+350009,  ,  ,  ,  ,  ,  ,Behind  Antenna,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,George  Goch  Station
+350009,  ,  ,  ,  ,  ,  ,Stand-Off,,Kathrein,  ,  ,  ,  ,  ,  ,,,George  Goch  Station  -  ATC
+350010,  ,  ,Fuller  Park 
+,  ,  ,  ,  ,  ,Fuller  Park 
+,Vodacom
+350010,  ,  ,X6959  Fuller  Park  CC,  ,  ,  ,  ,  ,X6959  Fuller  Park  CC,MTN
+350010,  ,  ,  ,  ,  ,  ,Stand-Off,,COMMSCOPE,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Remaining,Fulller  Park  -  ATC
+350010,  ,  ,  ,  ,  ,  ,Stand-Off,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,GC_Fuller_Park_CC
+350010,  ,  ,  ,  ,  ,  ,Stand-Off,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,GC_Fuller_Park_CC
+350010,  ,  ,  ,  ,  ,  ,Stand-Off,,Kathrein/Commscope,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Remaining,Fulller  Park  -  ATC  I  
+350010,  ,  ,  ,  ,  ,  ,N/A,,Commscope,  ,  ,  ,  ,  ,  ,,,Fuller  Park  ATC
+350010,  ,  ,  ,  ,  ,  ,Stand-Off,,HuaweiAAU5951,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Fuller_Park  -  ATC  I
+350010,  ,  ,  ,  ,  ,  ,,,,  ,  ,  ,  ,  ,  ,,,Fuller  Park
+350010,  ,  ,  ,  ,  ,  ,Stand-Off,,commscope  (Andrew)  ,  ,  ,  ,  ,  ,  ,,,Fuller  Park  -  ATC  I
+350010,  ,  ,  ,  ,  ,  ,,,,  ,  ,  ,  ,  ,  ,,,GC_Fulller_Park_CC  
+350011,  ,  ,3G  Microwave  Clean-Up,  ,  ,  ,  ,  ,3G  Microwave  Clean-Up,Cell  C  (Pty)    LTD
+350011,  ,  ,Elllispark  Station  ,  ,  ,  ,  ,  ,Elllispark  Station  ,MTN  (PTY)  LTD
+350011,  ,  ,,  ,  ,  ,  ,  ,,Vodacom
+350011,  ,  ,GC_Ellispark  Station 
+,  ,  ,  ,  ,  ,GC_Ellispark  Station 
+,8•ta
+350011,  ,  ,Ellispark  Station,  ,  ,  ,  ,  ,Ellispark  Station,Cell  C
+350011,  ,  ,3G  Microwave  Clean-Up,  ,  ,  ,  ,  ,3G  Microwave  Clean-Up,Cell  C  (Pty)    LTD
+350011,  ,  ,,  ,  ,  ,  ,  ,,Vodacom
+350011,  ,  ,  ,  ,  ,  ,Stand-Off,,Andrew,  ,  ,  ,  ,  ,  ,,,Ellis  Park  Station
+350011,  ,  ,  ,  ,  ,  ,Stand-Off,,COMMSCOPE,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Remaining,Ellis  Park  Station  ATC
+350011,  ,  ,  ,  ,  ,  ,,,,  ,  ,  ,  ,  ,  ,,,Ellis  Park
+350011,  ,  ,  ,  ,  ,  ,Stand-Off,,Kathrein/Commscope,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Remaining,Ellis  Park  Station  -  ATC  I
+350011,  ,  ,  ,  ,  ,  ,Behind  Antenna,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Ellispark  Station
+350011,  ,  ,  ,  ,  ,  ,Stand-Off,,HuaweiAAU5951,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Ellispark  Station  -  ATC  I
+350011,  ,  ,  ,  ,  ,  ,Stand-Off,,commscope  (Andrew),  ,  ,  ,  ,  ,  ,,,Ellis  Park  Station  -  ATC  I
+350012,  ,  ,,  ,  ,  ,  ,  ,,MTN  S.A.
+350012,  ,  ,GC_Doornfontein  Station 
+,  ,  ,  ,  ,  ,GC_Doornfontein  Station 
+,8•ta
+350012,  ,  ,Doornfontein  Station,  ,  ,  ,  ,  ,Doornfontein  Station,MTN  (Pty)  Ltd
+350012,  ,  ,Doornfontein  Station,  ,  ,  ,  ,  ,Doornfontein  Station,MTN  (Pty)  Ltd
+350012,  ,  ,  ,  ,  ,  ,,,,  ,  ,  ,  ,  ,  ,,,Doornfontein  Station
+350012,  ,  ,  ,  ,  ,  ,Behind  Antenna,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Doornfontein  Station
+350012,  ,  ,  ,  ,  ,  ,Stand-Off,,Kathrein/Commscope,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Remaining,Doornfontein  Station  ATC
+350012,  ,  ,  ,  ,  ,  ,Stand-Off,,Kathrein,  ,  ,  ,  ,  ,  ,,,Doornfontein  Station  -  ATC
+350013,  ,  ,3G  Microwave  Clean-Up,  ,  ,  ,  ,  ,3G  Microwave  Clean-Up,Cell  C  (Pty)    LTD
+350013,  ,  ,New  MW  Link  to  NSB  and  MW  decommisioning,  ,  ,  ,  ,  ,New  MW  Link  to  NSB  and  MW  decommisioning,Cell  C  (Pty)    LTD
+350013,  ,  ,New  MW  Link  to  NSB  and  MW  decommisioning,  ,  ,  ,  ,  ,New  MW  Link  to  NSB  and  MW  decommisioning,Cell  C  (Pty)    LTD
+350013,  ,  ,New  MW  Link  to  NSB  and  MW  decommisioning,  ,  ,  ,  ,  ,New  MW  Link  to  NSB  and  MW  decommisioning,Cell  C  (Pty)    LTD
+350013,  ,  ,  ,  ,  ,  ,,,,  ,  ,  ,  ,  ,  ,,,Pretoria  Gate
+350013,  ,  ,  ,  ,  ,  ,Stand-Off,,LCOM,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Pretoria  Gate  -  ATC
+350013,  ,  ,  ,  ,  ,  ,Behind  Antenna,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Pretoria  Gate
+350013,  ,  ,Additional  MW  Dish  for  1015,  ,  ,  ,  ,  ,Additional  MW  Dish  for  1015,Cell  C
+350014,  ,  ,  ,  ,  ,  ,Stand-Off,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,GC_Barnato  
+350014,  ,  ,  ,  ,  ,  ,Stand-Off,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,GC_Barnato  
+350014,  ,  ,  ,  ,  ,  ,Stand-Off,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,GC_Barnato  
+350015,  ,  ,  ,  ,  ,  ,Stand-Off,,Tongyu,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Remaining,Ralton  Corner
+350015,  ,  ,  ,  ,  ,  ,Behind  Antenna,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Ralton  Corner
+350015,  ,  ,  ,  ,  ,  ,Behind  Antenna,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Ralton  Corner
+350016,  ,  ,Killarney  SA,  ,  ,  ,  ,  ,Killarney  SA,Cell  C
+350016,  ,  ,  ,  ,  ,  ,Sector  Frame,,Kathrein,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Killarney  -  ATC
+350016,  ,  ,  ,  ,  ,  ,Sector  Frame,,Kathrein,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Killarney  -  ATC
+350016,  ,  ,  ,  ,  ,  ,Flush,,Wibas,  ,  ,  ,  ,  ,  ,Transmission,Proposed,KILLARNEY  SA
+350016,  ,  ,  ,  ,  ,  ,Behind  Antenna,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Killarney  SA
+350016,  ,  ,  ,  ,  ,  ,Behind  Antenna,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Killarney  SA
+350016,  ,  ,MW  application,  ,  ,  ,  ,  ,MW  application,Cell  C
+350017,  ,  ,GC_Observatory_Golf_Club,  ,  ,  ,  ,  ,GC_Observatory_Golf_Club,8•ta
+1020,  ,  ,Observatory  Golf  club,  ,  ,  ,  ,  ,Observatory  Golf  club,MTN  S.A.
+350017,  ,  ,Observatory  Golf  Club  ,  ,  ,  ,  ,  ,Observatory  Golf  Club  ,MTN
+350017,  ,  ,  ,  ,  ,  ,Stand-Off,,COMMSCOPE,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Remaining,Observatory  Golf  Club  -  ATC  I
+350017,  ,  ,  ,  ,  ,  ,Behind  Antenna,,Huawei,  ,  ,  ,  ,  ,  ,Base  Transceiver  Station,Proposed,Observatory  Golf  Club
+350017,  ,  ,  ,  ,  ,  ,Stand-Off,,Kathrein  ,  ,  ,  ,  ,  ,  ,,,Observatory  Golf  Club  -  ATC  I
