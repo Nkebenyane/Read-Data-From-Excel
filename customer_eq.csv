@@ -1,0 +1,365 @@
+Site  Number,Tower  Asset  Number,Project  Number,Project  Name,Customer  Equipment  Number,Customer  Equipment  Name,Portfolio  Country,Status,Customer  Name,Customer  Equipment  Type,antenna  instalation  status,antenna  equipment  type,antenna  mount  type,antenna  make,antenna  model,antenna  height,antenna  width,antenna  depth,azimuth,feeder/Line  qty,feeder/Line  type
+350007,350007-WT1,CE-350007-TELKOM  SA,South  Africa,Active,TELKOM  SA,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Outdoor,Huawei,DBS,1.627,0.7303,2.2
+350007,350007-WT1,CE-350007-TELKOM  SA,South  Africa,Active,TELKOM  SA,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Outdoor,Huawei,DBS,1.627,0.7303,2.2
+350007,350007-WT1,CE-350007-RAIN,South  Africa,Active,RAIN,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G/5G,Outdoor,Huawei,MTS9302A-HA16A3,650.0,650.0,1.5
+350007,350007-WT1,CE-350007-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350007,350007-WT1,CE-350007-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350007,350007-WT1,CE-350007-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350008,350008-WT1,CE-350008-TELKOM  SA,South  Africa,Active,TELKOM  SA,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Outdoor,Huawei,DBS,1.627,0.7303,2.2
+350008,350008-WT1,CE-350008-TELKOM  SA,South  Africa,Active,TELKOM  SA,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Outdoor,Huawei,DBS,1.627,0.7303,2.2
+350009,350009-WT1,CE-350009-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Remaining,Panel,Flush,Kathrein,742272,2628  ,  262  ,  149,40/180/330,0,Coax
+350009,350009-WT1,CE-350009-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Remaining,Panel,Flush,Kathrein,742272,2628  ,  262  ,  149,40/180/330,0,Coax
+350009,350009-WT1,CE-350009-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Remaining,Panel,Flush,Kathrein,742272,2628  ,  262  ,  149,40/180/330,0,Coax
+350009,350009-WT1,CE-350009-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Proposed,Dish-Standard,Side  Arm,Andrews,VHLP2-38,600mm  ,  600,,1,Coax
+350009,350009-WT1,CE-350009-MTN  S.A.,South  Africa,Active,MTN  S.A.,Tower,Proposed,Panel,Sector  Frame,Kathrein,742  272,2628  ,  262  ,  149  ,40,1,Coax
+350009,350009-WT1,CE-350009-MTN  S.A.,South  Africa,Active,MTN  S.A.,Tower,Proposed,Panel,Sector  Frame,Kathrein,742  272,2628  ,  262  ,  149  ,180,1,Coax
+350009,350009-WT1,CE-350009-MTN  S.A.,South  Africa,Active,MTN  S.A.,Tower,Proposed,Panel,Sector  Frame,Kathrein,742  272,2628  ,  262  ,  149  ,330,1,Coax
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,,N/A,N/A,FTTS,,,,,0.0,1,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,,,,,,,,,0.0,0,
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,,,,,,,,,0.0,0,
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,,,,,,,,,0.0,0,
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,,,,,,,,,0.0,0,
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,,,,,,,,,0.0,1,
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Base  Transceiver  Station,2G/3G/4G,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Transmission,Microwave,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,Dish-HP,Behind  Antenna,Andrew,THP03-370S,389.0,389.0,220.0,0.0,0,Coax
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350009,350009-WT1,CE-350009-RAIN,South  Africa,Active,RAIN,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G/5G,Outdoor,Huawei,MTS9302A-HA16A3,650.0,650.0,1.5
+350009,350009-WT1,CE-350009-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350009,350009-WT1,CE-350009-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350009,350009-WT1,CE-350009-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN,South  Africa,Active,MTN,Tower,Proposed,Radio/ODU,Platform  with  Handrails,Cambridge  ,Vectastar,66,66,35,93  Degrees,1,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Base  Transceiver  Station,2G/3G/4G,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Triband,Stand-Off,COMMSCOPE,CVV65BSX-M,1970.0,301.0,181.0,1.77891,2,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Triband,Stand-Off,COMMSCOPE,CVV65BSX-M,1970.0,301.0,181.0,1.77891,2,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Triband,Stand-Off,COMMSCOPE,CVV65BSX-M,1970.0,301.0,181.0,1.77891,2,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Dualband,Dual  Antenna,Kathrein,742266,2516.0,262.0,139.0,1.977576,2,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Dualband,Dual  Antenna,Kathrein,742266,2516.0,262.0,139.0,1.977576,2,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Dualband,Dual  Antenna,Kathrein,742266,2516.0,262.0,139.0,1.977576,2,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,TTA/TMA,Behind  Antenna,Ericsson,TMA2100,220.0,150.0,50.0,0.0,0,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,TTA/TMA,Behind  Antenna,Ericsson,TMA2100,220.0,150.0,50.0,0.0,0,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,TTA/TMA,Behind  Antenna,Ericsson,TMA2100,220.0,150.0,50.0,0.0,0,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,RET/RCU,Flush,Kathrein,86010045,125.0,50.0,,0.01875,0,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,RET/RCU,Flush,Kathrein,86010045,125.0,50.0,,0.01875,0,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,RET/RCU,Flush,Kathrein,86010045,125.0,50.0,,0.01875,0,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350010,350010-WT1,CE-350010-TELKOM  SA,South  Africa,Active,TELKOM  SA,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Outdoor,Huawei,DBS,1.627,0.7303,2.2
+350010,350010-WT1,CE-350010-TELKOM  SA,South  Africa,Active,TELKOM  SA,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Outdoor,Huawei,DBS,1.627,0.7303,2.2
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Base  Transceiver  Station,2G/3G/4G,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Transmission,Microwave,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,Dish-HP,Behind  Antenna,Andrew,THP03-370S,389.0,389.0,220.0,0.0,0,Coax
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350010,350010-WT1,CE-350010-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Dish-Standard,N/A,Commscope,SHP1-38  0.3m,389.0,389.0,307.0,0.11884723548346528,,Coax
+350010,350010-WT1,CE-350010-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Indoor-Customer  Shelter,,,,,
+350010,350010-WT1,CE-350010-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Proposed,Panel-Triband,Stand-Off,HuaweiAAU5951,3  AAU5951,2020.0,436.0,450.0,2.64216,4,Power  Cable
+350010,350010-WT1,CE-350010-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Proposed,Panel-Triband,Stand-Off,HuaweiAAU5951,3  AAU5951,2020.0,436.0,450.0,2.64216,4,Power  Cable
+350010,350010-WT1,CE-350010-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Proposed,Panel-Triband,Stand-Off,HuaweiAAU5951,3  AAU5951,2020.0,436.0,450.0,2.64216,4,Power  Cable
+350010,350010-WT1,CE-350010-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Removing,Panel-Dualband,Stand-Off,Katherine,742271,1933.0,261.0,146.0,3.027078,2,Fiber  Cable
+350010,350010-WT1,CE-350010-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Removing,Panel-Dualband,Stand-Off,Katherine,742271,1933.0,261.0,146.0,3.027078,2,Fiber  Cable
+350010,350010-WT1,CE-350010-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Removing,Panel-Dualband,Stand-Off,Katherine,742271,1933.0,261.0,146.0,3.027078,2,Fiber  Cable
+350010,350010-WT1,CE-350010-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Removing,Panel-Dualband,Stand-Off,Katherine,742271,1933.0,261.0,146.0,3.027078,2,Fiber  Cable
+350010,350010-WT1,CE-350010-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Removing,Panel-Dualband,Stand-Off,Katherine,742271,1933.0,261.0,146.0,3.027078,2,Fiber  Cable
+350010,350010-WT1,CE-350010-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Removing,Panel-Dualband,Stand-Off,Katherine,742271,1933.0,261.0,146.0,3.027078,2,Fiber  Cable
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,357.7  /  248.13  /  309.47  /  198.44  /  34.91,N/A,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,357.7  /  248.13  /  309.47  /  198.44  /  34.91,N/A,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,357.7  /  248.13  /  309.47  /  198.44  /  34.91,N/A,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,357.7  /  248.13  /  309.47  /  198.44  /  34.91,N/A,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,357.7  /  248.13  /  309.47  /  198.44  /  34.91,N/A,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,248.13,1,CAT5
+350011,350011-WT1,CE-350011-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Proposed,BTS,Halo  Mount,zXzx,,[''],,,
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM,Tower,Proposed,Panel,Flush,Powerwave,7785,2658,280,125,35,,Coax
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM,Tower,Proposed,Panel,Flush,Powerwave,7785,2658,280,125,150,,Coax
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM,Tower,Proposed,Panel,Flush,Powerwave,7785,2658,280,125,285,,Coax
+350011,350011-WT1,CE-350011-8•TA,South  Africa,Active,8•TA,Tower,Proposed,Panel,Stand-Off,Andrew,HBXX-6516DS-VTM,165.1mm  ,  1292.1mm  ,  304.8,0,6--  feedersx2   ,  opticx4,Coax
+350011,350011-WT1,CE-350011-8•TA,South  Africa,Active,8•TA,Tower,Proposed,Panel,Stand-Off,Andrew,HBXX-6516DS-VTM,165.1mm  ,  1292.1mm  ,  304.8,120,6--  feedersx2   ,  opticx4,Coax
+350011,350011-WT1,CE-350011-8•TA,South  Africa,Active,8•TA,Tower,Proposed,Panel,Stand-Off,Andrew,HBXX-6516DS-VTM,165.1mm  ,  1292.1mm  ,  304.8,240,6--  feedersx2   ,  opticx4,Coax
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C,Tower,Proposed,Dish-Radome,Stand-Off,Andrew  ,(VHLP1-38  ),0.388m  ,  0.219,100.23,n/a,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,100.23,1,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel,Leg,Powerwave,PW7780,1408  ,  280  ,  125  ,27  /  142  /  257,0,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel,Leg,Powerwave,PW7780,1408  ,  280  ,  125  ,27  /  142  /  257,0,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel,Leg,Powerwave,PW7780,1408  ,  280  ,  125  ,27  /  142  /  257,0,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,357.7  /  248.13  /  309.47  /  198.44  /  34.91,N/A,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,357.7  /  248.13  /  309.47  /  198.44  /  34.91,N/A,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,357.7  /  248.13  /  309.47  /  198.44  /  34.91,N/A,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,357.7  /  248.13  /  309.47  /  198.44  /  34.91,N/A,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,357.7  /  248.13  /  309.47  /  198.44  /  34.91,N/A,N/A
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,357.7  /  248.13  /  309.47  /  198.44  /  34.92  /  290.83,0,CAT5
+350011,350011-WT1,CE-350011-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,290.83,1,CAT5
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM,Tower,Proposed,Panel,Flush,Powerwave,7785,2658,280,125,35,,Coax
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM,Tower,Proposed,Panel,Flush,Powerwave,7785,2658,280,125,150,,Coax
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM,Tower,Proposed,Panel,Flush,Powerwave,7785,2658,280,125,285,,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Base  Transceiver  Station,2G/3G/4G,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Triband,Stand-Off,COMMSCOPE,CVV65BSX-M,1970.0,301.0,181.0,1.77891,2,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Triband,Stand-Off,COMMSCOPE,CVV65BSX-M,1970.0,301.0,181.0,1.77891,2,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Triband,Stand-Off,COMMSCOPE,CVV65BSX-M,1970.0,301.0,181.0,1.77891,2,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Dualband,Dual  Antenna,Kathrein,742266,2516.0,262.0,139.0,1.977576,2,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Dualband,Dual  Antenna,Kathrein,742266,2516.0,262.0,139.0,1.977576,2,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Dualband,Dual  Antenna,Kathrein,742266,2516.0,262.0,139.0,1.977576,2,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,TTA/TMA,Behind  Antenna,Ericsson,TMA2100,220.0,150.0,50.0,0.0,0,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,TTA/TMA,Behind  Antenna,Ericsson,TMA2100,220.0,150.0,50.0,0.0,0,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,TTA/TMA,Behind  Antenna,Ericsson,TMA2100,220.0,150.0,50.0,0.0,0,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,RET/RCU,Flush,Kathrein,86010045,125.0,50.0,,0.01875,0,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,RET/RCU,Flush,Kathrein,86010045,125.0,50.0,,0.01875,0,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,RET/RCU,Flush,Kathrein,86010045,125.0,50.0,,0.01875,0,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Triplexer,Behind  Antenna,COMBA,CM-BDW3D-OD4C,316.0,202.0,112.0,0.0,0,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Base  Transceiver  Station,2G/3G/4G,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Transmission,Microwave,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,Dish-HP,Behind  Antenna,Andrew,THP03-370S,389.0,389.0,220.0,0.0,0,Coax
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350011,350011-WT1,CE-350011-RAIN,South  Africa,Active,RAIN,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G/5G,Outdoor,Huawei,MTS9302A-HA16A3,650.0,650.0,1.5
+350011,350011-WT1,CE-350011-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350011,350011-WT1,CE-350011-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350011,350011-WT1,CE-350011-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Indoor-Customer  Shelter,,,,,
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Proposed,Panel-Triband,Stand-Off,HuaweiAAU5951,  AAU5951,2020.0,436.0,450.0,2.64216,4,Power  Cable
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Proposed,Panel-Triband,Stand-Off,HuaweiAAU5951,  AAU5951,2020.0,436.0,450.0,2.64216,4,Power  Cable
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Proposed,Panel-Triband,Stand-Off,HuaweiAAU5951,  AAU5951,2020.0,436.0,450.0,2.64216,4,Power  Cable
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Removing,Panel-Dualband,Stand-Off,KATH,10010292,2592.0,261.0,146.0,2.029536,4,Fiber  Cable
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Removing,Panel-Dualband,Stand-Off,KATH,10010292,2592.0,261.0,146.0,2.029536,4,Fiber  Cable
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,Removing,Panel-Dualband,Stand-Off,KATH,10010292,2592.0,261.0,146.0,2.029536,4,Fiber  Cable
+350011,350011-WT1,CE-350011-VODACOM,South  Africa,Active,VODACOM  (PTY)  LTD,Tower,,,,,,,,,0.0,1,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  S.A.,South  Africa,Active,MTN  S.A.,Tower,Proposed,Panel,Sector  Frame,Kathrein,742  272,2628  ,  262  ,  149  ,30,1,Coax
+350012,350012-WT1,CE-350012-MTN  S.A.,South  Africa,Active,MTN  S.A.,Tower,Proposed,Panel,Sector  Frame,Kathrein,742  272,2628  ,  262  ,  149  ,170,1,Coax
+350012,350012-WT1,CE-350012-MTN  S.A.,South  Africa,Active,MTN  S.A.,Tower,Proposed,Panel,Sector  Frame,Kathrein,742  272,2628  ,  262  ,  149  ,260,1,Coax
+350012,350012-WT1,CE-350012-8•TA,South  Africa,Active,8•TA,Tower,Proposed,Panel,Stand-Off,Andrew,HBXX-6516DS-VTM,165.1mm  ,  1292.1mm  ,  304.8,0,6--  feedersx2   ,  opticx4,Coax
+350012,350012-WT1,CE-350012-8•TA,South  Africa,Active,8•TA,Tower,Proposed,Panel,Stand-Off,Andrew,HBXX-6516DS-VTM,165.1mm  ,  1292.1mm  ,  304.8,120,6--  feedersx2   ,  opticx4,Coax
+350012,350012-WT1,CE-350012-8•TA,South  Africa,Active,8•TA,Tower,Proposed,Panel,Stand-Off,Andrew,HBXX-6516DS-VTM,165.1mm  ,  1292.1mm  ,  304.8,240,6--  feedersx2   ,  opticx4,Coax
+350012,350012-WT1,CE-350012-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Remaining,Panel,Flush,Kathrein,742272,2628  ,  262  ,  149,0/120/240,0,Coax
+350012,350012-WT1,CE-350012-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Remaining,Panel,Flush,Kathrein,742272,2628  ,  262  ,  149,0/120/240,0,Coax
+350012,350012-WT1,CE-350012-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Remaining,Panel,Flush,Kathrein,742272,2628  ,  262  ,  149,0/120/240,0,Coax
+350012,350012-WT1,CE-350012-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Proposed,Dish-Standard,Side  Arm,Andrews,VHLP1-26,300  ,  300,,1,Coax
+350012,350012-WT1,CE-350012-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Remaining,Panel,Flush,Kathrein,742272,2628  ,  262  ,  149,0/120/240,0,Coax
+350012,350012-WT1,CE-350012-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Remaining,Panel,Flush,Kathrein,742272,2628  ,  262  ,  149,0/120/240,0,Coax
+350012,350012-WT1,CE-350012-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Remaining,Panel,Flush,Kathrein,742272,2628  ,  262  ,  149,0/120/240,0,Coax
+350012,350012-WT1,CE-350012-MTN,South  Africa,Active,MTN  (PTY)  LTD,Tower,Proposed,Dish-Standard,Side  Arm,Andrews,VHLP1-26,300  ,  300,,1,Coax
+350012,350012-WT1,CE-350012-RAIN,South  Africa,Active,RAIN,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G/5G,Outdoor,Huawei,MTS9302A-HA16A3,650.0,650.0,1.5
+350012,350012-WT1,CE-350012-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350012,350012-WT1,CE-350012-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350012,350012-WT1,CE-350012-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Base  Transceiver  Station,2G/3G/4G,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Transmission,Microwave,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,Kathrein/Commscope,,2622.0,300.0,152.0,2.3598,2,Jumper
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,Dish-HP,Behind  Antenna,Andrew,THP03-370S,389.0,389.0,220.0,0.0,0,Coax
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,420.0,342.0,149.0,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,420.0,342.0,160.0,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,Commscope,RRV4-65B-R6,1828.0,498.0,197.0,2.731032,2,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350012,350012-WT1,CE-350012-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,380.0,335.0,289.0,0.0,0,Fiber  Cable
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,56.51  /  65.18,N/A,N/A
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,56.51  /  65.18,N/A,N/A
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,56.51  /  65.19  /  129.48  /  50.82,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,56.51  /  65.19  /  129.48  /  50.82,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,56.51  /  65.19  /  129.48  /  50.82,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,56.51  /  65.19  /  129.48  /  50.82,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,129.48,1,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Dish-Radome,Stand-Off,Andrew,VHLP1-38,0.388  m  ,  0.219  ,204.17,N/A,N/A
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Dish-Radome,Stand-Off,Andrew,VHLP1-38,0.388  m  ,  0.219  ,204.17,N/A,N/A
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,204.17,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,204.17,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,204.17,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,204.17,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Panel,Leg,TONGYU,TONGYU  TRIBAND,1980  ,  298  ,  146  ,0/120/240,2,Coax
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Panel,Leg,TONGYU,TONGYU  TRIBAND,1980  ,  298  ,  146  ,0/120/240,2,Coax
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Panel,Leg,TONGYU,TONGYU  TRIBAND,1980  ,  298  ,  146  ,0/120/240,2,Coax
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Dish-Radome,Stand-Off,Andrew,VHLP2-38,0.662  m  ,  0.313  ,204.17,N/A,N/A
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,204.17,1,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Panel,Leg,TONGYU,TONGYU  TRIBAND,1980  ,  298  ,  146  ,0/120/240,2,Coax
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Panel,Leg,TONGYU,TONGYU  TRIBAND,1980  ,  298  ,  146  ,0/120/240,2,Coax
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Panel,Leg,TONGYU,TONGYU  TRIBAND,1980  ,  298  ,  146  ,0/120/240,2,Coax
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Dish-Radome,Stand-Off,Andrew,VHLP1-38,0.388  m  ,  0.219  ,204.17,N/A,N/A
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Dish-Radome,Stand-Off,Andrew,VHLP1-38,0.388  m  ,  0.219  ,204.17,N/A,N/A
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,204.17,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,204.17,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,204.17,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,204.17,0,CAT5
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Panel,Leg,TONGYU,TONGYU  TRIBAND,1980  ,  298  ,  146  ,0/120/240,2,Coax
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Panel,Leg,TONGYU,TONGYU  TRIBAND,1980  ,  298  ,  146  ,0/120/240,2,Coax
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C  (PTY)    LTD,Tower,Remaining,Panel,Leg,TONGYU,TONGYU  TRIBAND,1980  ,  298  ,  146  ,0/120/240,2,Coax
+350013,350013-WT1,CE-350013-TELSAF  DATA,South  Africa,Active,TELSAF  DATA,Ground,Proposed,Base  Transceiver  Station,WiFi,Indoor-ATC  Shelter,Ingenu,Access  Point,0.9,0.6,0 ,3
+350013,350013-WT1,CE-350013-TELSAF  DATA,South  Africa,Active,TELSAF  DATA,Tower,Proposed,Omni,Stand-Off,LCOM,ANT  OMNI  2.4GHz  9dBi,820.0,38.0,,0.03116,1,Coax
+350013,350013-WT1,CE-350013-RAIN,South  Africa,Active,RAIN,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G/5G,Outdoor,Huawei,MTS9302A-HA16A3,650.0,650.0,1.5
+350013,350013-WT1,CE-350013-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350013,350013-WT1,CE-350013-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350013,350013-WT1,CE-350013-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350013,350013-WT1,CE-350013-CELL  C,South  Africa,Active,CELL  C,Tower,Proposed,Dish-Standard,Stand-Off,Andrew,VHLP1-38,300,300,166,352TN,NA,CAT5
+350014,350014-WT1,CE-350014-TELKOM  SA,South  Africa,Active,TELKOM  SA,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Outdoor,Huawei,DBS,1.627,0.7303,2.2
+350014,350014-WT1,CE-350014-TELKOM  SA,South  Africa,Active,TELKOM  SA,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Outdoor,Huawei,DBS,1.627,0.7303,2.2
+350014,350014-WT1,CE-350014-TELKOM  SA,South  Africa,Active,TELKOM  SA,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G,Outdoor,Huawei,DBS,1.627,0.7303,2.2
+350015,350015-WT1,CE-350015-CELL  C,South  Africa,Active,CELL  C,Ground,Remaining,Base  Transceiver  Station,2G/3G,Outdoor,Huawei,DBS3900,700.0,600.0,700.0
+350015,350015-WT1,CE-350015-CELL  C,South  Africa,Active,CELL  C,Ground,Remaining,Transmission,Microwave,Indoor-Customer  Shelter,Huawei,RTN905,0.442,0.044,0.202
+350015,350015-WT1,CE-350015-CELL  C,South  Africa,Active,CELL  C,Ground,Proposed,Transmission,Microwave,Indoor-Customer  Shelter,Huawei,RTN905,0.442,0.044,0.202
+350015,350015-WT1,CE-350015-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel-Triband,Stand-Off,Tongyu,TTB-809016,1980.0,298.0,146.0,1.77012,2,Coax
+350015,350015-WT1,CE-350015-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel-Triband,Stand-Off,Tongyu,TTB-809016,1980.0,298.0,146.0,1.77012,2,Coax
+350015,350015-WT1,CE-350015-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel-Triband,Stand-Off,Tongyu,TTB-809016,1980.0,298.0,146.0,1.77012,2,Coax
+350015,350015-WT1,CE-350015-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Dish-HP,Stand-Off,Andrews,VHLP2-38,662.0,358.0,313.0,0.3441960327199513,1,Coax
+350015,350015-WT1,CE-350015-CELL  C,South  Africa,Active,CELL  C,Tower,Proposed,Dish-HP,Stand-Off,Andrews,VHLP1-38,388.0,372.0,166.0,0.11823698111050546,1,Coax
+350015,350015-WT1,CE-350015-RAIN,South  Africa,Active,RAIN,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G/5G,Outdoor,Huawei,MTS9302A-HA16A3,650.0,650.0,1.5
+350015,350015-WT1,CE-350015-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350015,350015-WT1,CE-350015-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350015,350015-WT1,CE-350015-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350015,350015-WT1,CE-350015-RAIN,South  Africa,Active,RAIN,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G/5G,Outdoor,Huawei,MTS9302A-HA16A3,650.0,650.0,1.5
+350015,350015-WT1,CE-350015-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350015,350015-WT1,CE-350015-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350015,350015-WT1,CE-350015-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350016,350016-WT1,CE-350016-CELL  C,South  Africa,Active,CELL  C,Tower,Proposed,Dish-Radome,Stand-Off,Andrew  ,(VHLP  1-38),0.338m  ,  0.219  ,43.98,n/a,N/A
+350016,350016-WT1,CE-350016-CELL  C,South  Africa,Active,CELL  C,Tower,Proposed,Radio/ODU,N/A,NOKIA-SIEMENS  NETWORKS,FLEXIPACKET,0.2378  ,  0.2378  ,  0.16848,43.98,1,CAT5
+350016,350016-WT1,CE-350016-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel,Leg,Kathrein,742271,2058mm  ,  262mm  ,  149,0/120/240,2,N/A
+350016,350016-WT1,CE-350016-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel,Leg,Kathrein,742271,2058mm  ,  262mm  ,  149,0/120/240,2,N/A
+350016,350016-WT1,CE-350016-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel,Leg,Kathrein,742271,2058mm  ,  262mm  ,  149,0/120/240,2,N/A
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Ground,Proposed,Base  Transceiver  Station,LTE,Indoor-Customer  Shelter,Dalucon,ISO  Body,1.2,1.0,2.0
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Tower,Proposed,Panel-Quadband,Sector  Frame,Kathrein,80010622,1415.0,323.0,71.0,0.457045,2,Coax
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Tower,Proposed,Panel-Quadband,Sector  Frame,Kathrein,80010622,1415.0,323.0,71.0,0.457045,2,Coax
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Tower,Proposed,Panel-Quadband,Sector  Frame,Kathrein,80010622,1415.0,323.0,71.0,0.457045,2,Coax
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Tower,Proposed,RRU,Flush,Nokia,RL-60,133.0,447.0,560.0,0.118902,0,Fiber  Cable
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Tower,Proposed,RRU,Flush,Nokia,RL-60,133.0,447.0,560.0,0.118902,0,Fiber  Cable
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Ground,Proposed,Base  Transceiver  Station,LTE,Indoor-Customer  Shelter,Dalucon,ISO  Body,1.2,1.0,2.0
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Tower,Proposed,Panel-Quadband,Sector  Frame,Kathrein,80010622,1415.0,323.0,71.0,0.457045,2,Coax
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Tower,Proposed,Panel-Quadband,Sector  Frame,Kathrein,80010622,1415.0,323.0,71.0,0.457045,2,Coax
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Tower,Proposed,Panel-Quadband,Sector  Frame,Kathrein,80010622,1415.0,323.0,71.0,0.457045,2,Coax
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Tower,Proposed,RRU,Flush,Nokia,RL-60,133.0,447.0,560.0,0.118902,0,Fiber  Cable
+350016,350016-WT1,CE-350016-MULTISOURCE,South  Africa,Active,MULTISOURCE,Tower,Proposed,RRU,Flush,Nokia,RL-60,133.0,447.0,560.0,0.118902,0,Fiber  Cable
+350016,350016-WT1,CE-350016-DFA,South  Africa,Active,DFA,Ground,Proposed,Transmission,P-T-MP,Outdoor,DFA,IP65  15U,0.7,0.7,0.905
+350016,350016-WT1,CE-350016-DFA,South  Africa,Active,DFA,Tower,Proposed,Dish-Standard,Flush,Wibas,OSDR,290.0,238.0,96.0,0.0660519855417254,2,Fiber  Cable
+350016,350016-WT1,CE-350016-RAIN,South  Africa,Active,RAIN,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G/5G,Outdoor,Huawei,MTS9302A-HA16A3,650.0,650.0,1.5
+350016,350016-WT1,CE-350016-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350016,350016-WT1,CE-350016-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350016,350016-WT1,CE-350016-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350016,350016-WT1,CE-350016-RAIN,South  Africa,Active,RAIN,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G/5G,Outdoor,Huawei,MTS9302A-HA16A3,650.0,650.0,1.5
+350016,350016-WT1,CE-350016-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350016,350016-WT1,CE-350016-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350016,350016-WT1,CE-350016-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350016,350016-WT1,CE-350016-CELL  C,South  Africa,Active,CELL  C,Tower,Proposed,Radio/ODU,Stand-Off,Andrew  Solutions,FP38GHZ  4S28,['388mm  X  372mm  166'],10,1,CAT5
+350016,350016-WT1,CE-350016-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel,N/A,Kathrein,742271,['2058  X  262  X  149  '],140,1,Coax
+350016,350016-WT1,CE-350016-CELL  C,South  Africa,Active,CELL  C,Tower,Remaining,Panel,N/A,Kathrein,742271,['2058  X  262  X  149  '],140,1,Coax
+350017,350017-WT1,CE-350017-8•TA,South  Africa,Active,8•TA,Tower,Proposed,Panel,Stand-Off,Andrew,HBXX-6516DS-VTM,165.1mm  ,  1292.1mm  ,  304.8,0,6--  feedersx2   ,  opticx4,Coax
+350017,350017-WT1,CE-350017-8•TA,South  Africa,Active,8•TA,Tower,Proposed,Panel,Stand-Off,Andrew,HBXX-6516DS-VTM,165.1mm  ,  1292.1mm  ,  304.8,120,6--  feedersx2   ,  opticx4,Coax
+350017,350017-WT1,CE-350017-8•TA,South  Africa,Active,8•TA,Tower,Proposed,Panel,Stand-Off,Andrew,HBXX-6516DS-VTM,165.1mm  ,  1292.1mm  ,  304.8,240,6--  feedersx2   ,  opticx4,Coax
+1020,1020-WT1,CE-1020-MTN  S.A.,South  Africa,Active,MTN  S.A.,Tower,Proposed,Panel,Sector  Frame,Kathrein,800  1092,2628  ,  262  ,  149  ,30,1,Coax
+1020,1020-WT1,CE-1020-MTN  S.A.,South  Africa,Active,MTN  S.A.,Tower,Proposed,Panel,Sector  Frame,Kathrein,800  1092,2628  ,  262  ,  149  ,170,1,Coax
+1020,1020-WT1,CE-1020-MTN  S.A.,South  Africa,Active,MTN  S.A.,Tower,Proposed,Panel,Sector  Frame,Kathrein,800  1092,2628  ,  262  ,  149  ,280,1,Coax
+350017,350017-WT1,CE-350017-MTN,South  Africa,Active,MTN,Tower,Proposed,N/A,N/A,,,[''],,,
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Base  Transceiver  Station,2G/3G/4G,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Ground,Remaining,Transmission,Microwave,Indoor-Customer  Shelter,Ericsson,RBS  6201,,,
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,COMMSCOPE,RRV4-65B-R6,2065.0,350.0,208.0,2.16825,2,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,COMMSCOPE,RRV4-65B-R6,2065.0,350.0,208.0,2.16825,2,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,Panel-Quadband,Stand-Off,COMMSCOPE,RRV4-65B-R6,2065.0,350.0,208.0,2.16825,2,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,466.0,343.0,142.0,0.0,0,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,466.0,343.0,142.0,0.0,0,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,2212,466.0,343.0,142.0,0.0,0,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,466.0,343.0,142.0,0.0,0,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,466.0,343.0,142.0,0.0,0,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,RRU,Behind  Antenna,Ericsson,4415,466.0,343.0,142.0,0.0,0,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,389.0,389.0,220.0,0.0,0,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,389.0,389.0,220.0,0.0,0,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Proposed,RRU,Behind  Antenna,Ericsson,4443,389.0,389.0,220.0,0.0,0,Fiber  Cable
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Remaining,Dish-HP,Behind  Antenna,Andrew,VHLP1-  15-  3GR,389.0,389.0,220.0,0.0,1,Coax
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,COMMSCOPE,80010292V02,2694.0,262.0,149.0,2.117484,2,Jumper
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,COMMSCOPE,80010292V02,2694.0,262.0,149.0,2.117484,2,Jumper
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Panel-Triband,Stand-Off,COMMSCOPE,80010292V02,2694.0,262.0,149.0,2.117484,2,Jumper
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Jumper
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Jumper
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,Triplexer,Behind  Antenna,Comba,N/A,N/A,N/A,N/A,0.0,0,Jumper
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Jumper
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Jumper
+350017,350017-WT1,CE-350017-MTN  SOUTH  AFRICA,South  Africa,Active,MTN  SOUTH  AFRICA,Tower,Removing,TTA/TMA,Behind  Antenna,Ericsson,TMA,N/A,N/A,N/A,0.0,0,Jumper
+350017,350017-WT1,CE-350017-RAIN,South  Africa,Active,RAIN,Ground,Proposed,Base  Transceiver  Station,2G/3G/4G/5G,Outdoor,Huawei,MTS9302A-HA16A3,650.0,650.0,1.5
+350017,350017-WT1,CE-350017-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350017,350017-WT1,CE-350017-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
+350017,350017-WT1,CE-350017-RAIN,South  Africa,Active,RAIN,Tower,Proposed,Panel-Single  Band,Behind  Antenna,Huawei,AAU5613,795.0,395.0,220.0,0.0,2,Fiber  Cable
